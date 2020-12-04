@@ -1,0 +1,8 @@
+- As a video gamer, I want to be able to build a team with the same nationality
+- As a player rater, I want to know the top players for each skill set
+- As an EA developer, I want to understand the variation of players skill stats
+- As a video gamer, I want to be able to specify the configuration of a team of players
+- As a video gamer, I want to build the best team based on any formation
+- As a video gamer, I want to be able to compare players
+- As an EA developer, I want to visual graph of players skills distribution
+- As as a video gamer, I want to see the relationships between different skill sets
